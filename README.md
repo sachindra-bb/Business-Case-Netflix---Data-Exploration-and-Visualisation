@@ -1,3 +1,5 @@
+▶️ [Click here to view the full analysis in Google Colab](https://colab.research.google.com/drive/11f_dlK0Un8m8ZD5nZONIDsBgpPlRjsk0?usp=sharing))
+
 # Business-Case-Netflix---Data-Exploration-and-Visualisation
 
 **Problem Statement**
